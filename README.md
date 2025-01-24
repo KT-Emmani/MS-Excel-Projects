@@ -18,7 +18,7 @@ This data analysis project aims to provide insights into the sales performance o
 Sales Data: The primary dataset used for this analysis is the "Pizza Sales.xlsx" file, containing detailed information about each sale made by Plato's Pizza.
 Dataset can be found in Kaggle [download](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales)
 
-### Tools
+### Tools Used
 Excel 
 - Data Cleaning
 - Data Analysis with the use of Pivot tables.
@@ -27,8 +27,12 @@ Excel
 ### Data Cleaning/Preparation
 In the initial data preparation phase, I performed the following tasks:
 
-Inspected the data to look for any missing values.
-Data cleaning and formatting.
+- Created a new sheet to duplicate the original data for the cleaning.
+- Inspected the data for any missing values by using the column header row of each columns.
+- Data cleaning and formatting by ensuring the data is consisitent and clean with respect to data types, data format and valued used.
+- Added new columns to extract the month and days from the Order date to answer some of the questions for the analysis. The Text function was used for this extraction; =TEXT([@[order_date]],"mmmm") and =TEXT([@[order_date]], "dddd"). 
+- Added a column to group the order time, created a table and used the Vlookup Function thus =VLOOKUP([@[order_time]],$S$6:$U$30,3,1) 
+- 
 
 ### Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as:
