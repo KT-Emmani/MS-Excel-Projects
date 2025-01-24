@@ -46,7 +46,8 @@ The analysis results are summarized as follows:
 The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
 Product Category A is the best-performing category in terms of sales and revenue.
 Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
-Recommendations
+
+### Recommendations
 Based on the analysis, we recommend the following actions:
 
 Invest in marketing and promotions during peak sales seasons to maximize revenue.
