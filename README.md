@@ -13,9 +13,6 @@
 
 This data analysis project aims to provide insights into the sales performance of Plato's Pizza for the year 2015. By analyzing various aspects of the sales data, I seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance. 
 
-![Data Model - Pizza Sales - Excel 1_24_2025 7_25_30 PM](https://github.com/user-attachments/assets/1b57da50-46fa-417c-bde7-a9ed9459972c)
-
-
 
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the "Pizza Sales.xlsx" file, containing detailed information about each sale made by Plato's Pizza.
@@ -51,6 +48,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 - Which category of pizza are customers favorite?
 - What are the peak sales periods?
 - Plato's top selling pizza types?
+
 
 ### Results/Findings
 The Insight to this data are as follows;
@@ -97,6 +95,11 @@ The Insight to this data are as follows;
 
 
 ![Data Model - Pizza Sales - Excel 1_24_2025 7_49_41 PM](https://github.com/user-attachments/assets/a5672950-2fe1-4bc0-97a1-0b5f6c530286)
+
+
+### Dashboard
+
+![Data Model - Pizza Sales - Excel 1_24_2025 7_25_30 PM](https://github.com/user-attachments/assets/94fedf2e-ddb6-4773-a5ad-725f8b36cd5f)
 
 
   
