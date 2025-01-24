@@ -44,23 +44,33 @@ In the initial data preparation phase, I performed the following tasks:
 ### Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as:
 
-What is the overall sales trend?
-Which products are top sellers?
-What are the peak sales periods?
-Data Analysis
-Include some interesting code/features worked with
+- What is the overall sales trend?
+- Which category of pizza are customers favorite?
+- What are the peak sales periods?
+- Plato's top selling pizza types?
 
-SELECT * FROM table1
-WHERE cond = 2;
-Results/Findings
-The analysis results are summarized as follows:
+### Results/Findings
+The Insight to this data are as follows;
 
-The company's sales have been steadily increasing over the past year, with a noticeable peak during the holiday season.
-Product Category A is the best-performing category in terms of sales and revenue.
-Customer segments with high lifetime value (LTV) should be targeted for marketing efforts.
+- Total Revenue: $ 817.8K
+- Total Quantity Sold: 49.5K
+- Total Orders: 21.35K
+- Average Order Value: $ 38.31
+- Fridays are the busiest day of the week with a total of 8,106 orders and a revenue generation of $ 136k
+- July was the busiest month with a total of 4,301 orders and a revenue generation of $ 72.5K
+- Among the categories of pizza, most of Plato Pizza's customers preferred the Classic with 14,888 quantity sold and generating 27% of its revenue for the year.
+- 12pm - 1pm tends to be the busiest time of the day for ordering pizza by their customers.
+- Plato's Pizza Top 3 Pizza types are;
+  
+   The Thai Chicken Pizza
+  
+   The Barbecue Chicken Pizza
+  
+   The California Chicken Pizza
 
+  
 ### Recommendations
-Based on the analysis, we recommend the following actions:
+Based on the analysis, I recommend the following actions:
 
 Invest in marketing and promotions during peak sales seasons to maximize revenue.
 Focus on expanding and promoting products in Category A.
