@@ -1,5 +1,4 @@
-# Excel
-## Plato's Pizza Sales Analysis
+# Plato's Pizza Sales Analysis (Interactive Dashboard creation using MS Excel)
 
 ## Table of Contents
 
@@ -12,24 +11,26 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into the sales performance of Plato's Pizza for the year 2015. By analyzing various aspects of the sales data, I seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
 
 
 ### Data Sources
-Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
+Sales Data: The primary dataset used for this analysis is the "Pizza Sales.xlsx" file, containing detailed information about each sale made by Plato's Pizza.
+Dataset can be found in Kaggle [download](https://www.kaggle.com/datasets/shilongzhuang/pizza-sales)
 
-Tools
-Excel - Data Cleaning
-Download here
-SQL Server - Data Analysis
-PowerBI - Creating reports
-Data Cleaning/Preparation
-In the initial data preparation phase, we performed the following tasks:
+### Tools
+Excel 
+- Data Cleaning
+- Data Analysis with the use of Pivot tables.
+- Visualization
 
-Data loading and inspection.
-Handling missing values.
+### Data Cleaning/Preparation
+In the initial data preparation phase, I performed the following tasks:
+
+Inspected the data to look for any missing values.
 Data cleaning and formatting.
-Exploratory Data Analysis
+
+### Exploratory Data Analysis
 EDA involved exploring the sales data to answer key questions, such as:
 
 What is the overall sales trend?
