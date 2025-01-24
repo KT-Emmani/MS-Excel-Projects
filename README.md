@@ -11,7 +11,10 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights into the sales performance of Plato's Pizza for the year 2015. By analyzing various aspects of the sales data, I seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into the sales performance of Plato's Pizza for the year 2015. By analyzing various aspects of the sales data, I seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance. 
+
+![Data Model - Pizza Sales - Excel 1_24_2025 7_25_30 PM](https://github.com/user-attachments/assets/1b57da50-46fa-417c-bde7-a9ed9459972c)
+
 
 
 ### Data Sources
@@ -56,10 +59,33 @@ The Insight to this data are as follows;
 - Total Quantity Sold: 49.5K
 - Total Orders: 21.35K
 - Average Order Value: $ 38.31
-- Fridays are the busiest day of the week with a total of 8,106 orders and a revenue generation of $ 136k
-- July was the busiest month with a total of 4,301 orders and a revenue generation of $ 72.5K
+
+- Fridays are the busiest day of the week with a total of 8,106 orders and a revenue generation of $ 136k.
+  
+
+![Data Model - Pizza Sales - Excel 1_24_2025 7_51_16 PM](https://github.com/user-attachments/assets/68b785d3-98ff-4a52-aa13-fec7ffb1566f)
+
+
+
+- July was the busiest month with a total of 4,301 orders and a revenue generation of $ 72.5K.
+  
+
+![Data Model - Pizza Sales - Excel 1_24_2025 7_52_38 PM](https://github.com/user-attachments/assets/4c7daf5c-4413-4b3c-97d9-9e98d75c1d5b)
+
+
+
 - Among the categories of pizza, most of Plato Pizza's customers preferred the Classic with 14,888 quantity sold and generating 27% of its revenue for the year.
+
+
+![Data Model - Pizza Sales - Excel 1_24_2025 7_50_50 PM](https://github.com/user-attachments/assets/1237936e-8846-4829-9cc9-5d5fdc123d5e)
+
+
 - 12pm - 1pm tends to be the busiest time of the day for ordering pizza by their customers.
+  
+
+![Data Model - Pizza Sales - Excel 1_24_2025 7_50_15 PM](https://github.com/user-attachments/assets/d7c5e58d-fc65-4f5b-8098-ee58536e43f6)
+
+
 - Plato's Pizza Top 3 Pizza types are;
   
    The Thai Chicken Pizza
@@ -68,6 +94,11 @@ The Insight to this data are as follows;
   
    The California Chicken Pizza
 
+
+
+![Data Model - Pizza Sales - Excel 1_24_2025 7_49_41 PM](https://github.com/user-attachments/assets/a5672950-2fe1-4bc0-97a1-0b5f6c530286)
+
+
   
 ### Recommendations
 Based on the analysis, I recommend the following actions:
@@ -75,9 +106,7 @@ Based on the analysis, I recommend the following actions:
 Invest in marketing and promotions during peak sales seasons to maximize revenue.
 Focus on expanding and promoting products in Category A.
 Implement a customer segmentation strategy to target high-LTV customers effectively.
-Limitations
+
+### Limitations
 I had to remove all zero values from budget and revenue columns because they would have affected the accuracy of my conclusions from the analysis. There are still a few outliers even after the omissions but even then we can still see that there is a positive correlation between both budget and number of votes with revenue.
 
-References
-SQL for Businesses by werty.
-Stack Overflow
