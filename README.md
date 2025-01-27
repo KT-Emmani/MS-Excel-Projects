@@ -106,7 +106,6 @@ The Insight to this data are as follows;
 ### Recommendations
 Based on the analysis, I recommend the following actions:
 
-- Invest in marketing and promotions during peak sales seasons to maximize revenue.
-- Cut cost by not operating during 9am to 11am and aslo closing at 11pm 
-- Focus on expanding and promoting products in Category A.
-- Implement a customer segmentation strategy to target high-LTV customers effectively.
+- To reduce operational cost, Plato's pizza should consider operating from 12pm to 11pm.
+- Plato's Pizza should consider running promotions in the month of september and october to boost sales during that period.
+
